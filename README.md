@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Houssaine Assli
+## Hi there 👋 I’m Al Houssaine El Assli
 5th-year Software Engineering student | Turning ideas into impactful software
 
 - 🔭 I’m currently working on **A Flutter App with AI Intergrations 
