@@ -2,15 +2,15 @@
 
 ### Full-Stack Software Engineering Student | Data & Artificial Intelligence (MIAGE)
 
-Software engineering student specializing in **full-stack development, data, and AI**, with practical experience delivering **web and mobile applications** in enterprise environments.
+Software engineering student focused on **full-stack development, backend systems, and AI-powered applications**, with academic and industrial project experience in web and mobile development.
 
-Currently enrolled in a **MIAGE engineering program (2023–2026)** and actively seeking a **Final-Year Internship (PFE)** in software engineering.
+Currently enrolled in a **MIAGE engineering program (2023–2026)** and seeking a **Final-Year Internship (PFE)** in software engineering.
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**  
+**Languages**  
 - Java, Python, C++, C#, PHP, JavaScript
 
 **Frameworks & Platforms**  
@@ -22,23 +22,31 @@ Currently enrolled in a **MIAGE engineering program (2023–2026)** and actively
 **DevOps & Code Quality**  
 - Git / GitHub, Docker, SonarQube, JUnit, JaCoCo
 
-**System Design & Administration**  
+**Design & Systems**  
 - UML, Merise, Linux / Unix, Oracle Administration
+
+---
+
+## Project Highlights
+
+- **EMSI Smart Presence** — Native Android app (Java) for academic attendance management  
+- **AI Multi-Feature Mobile App (Flutter)** — Voice assistant, image classification, document chat (RAG), and stock price prediction  
+- **Centralized E-Commerce Platform** — Spring Boot backend aggregating products from multiple marketplaces with AI-powered recommendations  
 
 ---
 
 ## Experience Snapshot
 
-- Designed and developed **internal web applications** using Django for enterprise users  
-- Built an **Android logistics application** (MVVM) with Firebase and OCR integration  
-- Managed full development lifecycle: analysis, design, implementation, testing
+- Developed **enterprise web applications** with Django  
+- Built **Android and Flutter mobile apps**  
+- Worked across the full lifecycle: analysis, design, implementation, testing
 
 ---
 
 ## Current Focus
 
-- Final-Year Internship (PFE) in **Full-Stack or Backend Software Engineering**  
-- Strong interest in **backend systems, data engineering, AI, and software quality**
+- Final-Year Internship (PFE) in **Backend or Full-Stack Software Engineering**  
+- Strong interest in **AI integration, data-driven systems, and software quality**
 
 ---
 
