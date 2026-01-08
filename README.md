@@ -44,5 +44,4 @@ Currently enrolled in a **MIAGE engineering program (2023–2026)** and actively
 
 ## Links
 
-- **GitHub:** https://github.com/Houssaine-X  
 - **LinkedIn:** https://www.linkedin.com/in/al-houssaine-el-assli-48584023b/
